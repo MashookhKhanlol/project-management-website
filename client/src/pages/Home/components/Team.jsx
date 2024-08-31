@@ -38,7 +38,6 @@ margin-bottom: 80px;
 }
 `;
 
-
 const TeamContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -54,8 +53,8 @@ const TeamContainer = styled.div`
 
 const Team = () => {
   const member = [{
-    photo: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    name: "Rishav Chanda",
+    photo: "https://avatars.githubusercontent.com/u/113329651?v=4",
+    name: "Mashookh Khan",
     title: "Full-Stack Developer",
     bio: "I have expertise in full-stack web development, Android app development, and MERN stack development. I am knowledgeable in various programming languages, frameworks, and technologies and strive to create high-quality, user-friendly applications."
   }]
